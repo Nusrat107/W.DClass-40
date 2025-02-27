@@ -1,4 +1,4 @@
-document.getElementById('paragraph').innerHTML = "Show the text on browser!"; //<p></p>
+document.getElementById('paragraph').innerHTML = "Show the text on browser!"; //<h1></h1>
 
 
 let number1 = 49;
